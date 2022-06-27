@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'Landmarks_PG_Example' do
+  pod 'Landmarks_PG', :path => '../'
+
+  target 'Landmarks_PG_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
