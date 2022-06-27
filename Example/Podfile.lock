@@ -1,0 +1,16 @@
+PODS:
+  - Landmarks_PG (0.1.0)
+
+DEPENDENCIES:
+  - Landmarks_PG (from `../`)
+
+EXTERNAL SOURCES:
+  Landmarks_PG:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Landmarks_PG: 2dd7d75f8419eb820e6c10ae152e95b0e508637b
+
+PODFILE CHECKSUM: d2f3434470da4d0bee15c29dd88f99a868f34a89
+
+COCOAPODS: 1.11.3

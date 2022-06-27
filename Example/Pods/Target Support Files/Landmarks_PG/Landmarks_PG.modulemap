@@ -1,0 +1,6 @@
+framework module Landmarks_PG {
+  umbrella header "Landmarks_PG-umbrella.h"
+
+  export *
+  module * { export * }
+}
